@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">pertemuan5_71190424</string>
+    <string name="Password">Password</string>
+    <string name="Username">Username</string>
+    <string name="my_campus">MY CAMPUS</string>
+    <string name="register">REGISTER</string>
+    <string name="login">LOGIN</string>
+    <string name="todo">TODO</string>
+    <string name="logout">LOGOUT</string>
+    <string name="welcome">WELCOME</string>
+    <string name="getuser">Username</string>
+</resources>
