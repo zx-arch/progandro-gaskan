@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:padding="10dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/profil_contact"
+        android:layout_width="188dp"
+        android:layout_height="104dp"
+        android:layout_weight="1"
+        android:contentDescription="@string/profil_contact"
+        tools:ignore="ImageContrastCheck"
+        tools:srcCompat="@tools:sample/avatars" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginStart="24dp"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/listcontact"
+            android:layout_width="165dp"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="50dp"
+            android:layout_marginTop="5dp"
+            android:text="@string/item_contact"
+            android:textAlignment="textEnd"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/contactname"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="2dp"
+            android:text="@string/nama_contact" />
+
+        <Button
+            android:id="@+id/detail"
+            android:layout_width="100dp"
+            android:layout_marginBottom="8dp"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/biru"
+            android:text="@string/detail" />
+
+    </LinearLayout>
+
+</LinearLayout>
