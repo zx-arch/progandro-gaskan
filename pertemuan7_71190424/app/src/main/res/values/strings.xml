@@ -5,4 +5,6 @@
     <string name="nama_contact">Nama Contact</string>
     <string name="nomor">Nomor</string>
     <string name="detail">Detail</string>
+    <string name="detailkontak">Detail Kontak</string>
+    <string name="contact_number">Contact Number</string>
 </resources>
