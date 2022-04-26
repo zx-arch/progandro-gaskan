@@ -11,7 +11,7 @@
         android:orientation="vertical">
 
         <TextView
-            android:id="@+id/textView"
+            android:id="@+id/textbahasa"
             android:layout_width="166dp"
             android:layout_height="20dp"
             android:text="@string/bahasa" />
@@ -27,7 +27,7 @@
             android:entries="@array/spinner_bahasa" />
 
         <TextView
-            android:id="@+id/textView4"
+            android:id="@+id/textfont"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="5dp"

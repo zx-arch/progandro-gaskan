@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="spinner_bahasa">
-        <item>Choose</item>
-        <item>Indonesian</item>
+        <item>Default</item>
         <item>English</item>
         <item>Japanese</item>
         <item>Spanish</item>
