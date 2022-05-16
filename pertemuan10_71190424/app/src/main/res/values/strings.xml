@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">pertemuan10_71190424</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="masukkan_usia">Masukkan Usia</string>
+    <string name="simpan">Simpan</string>
+    <string name="hapus">Hapus</string>
+    <string name="cari">Cari</string>
+</resources>
