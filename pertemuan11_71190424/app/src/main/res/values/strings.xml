@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">pertemuan10_71190424</string>
+    <string name="masukkan_nama">Masukkan Nama</string>
+    <string name="masukkan_nim">Masukkan NIM</string>
+    <string name="masukkan_ipk">Masukkan IPK</string>
+    <string name="sort_spinner">Sorting By</string>
+    <string name="simpan">Simpan</string>
+    <string name="cari">Cari</string>
+</resources>
