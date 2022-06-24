@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">pertemuan6_71190424</string>
+    <string name="frg_a">Ini Fragment A</string>
+    <string name="frg_b">Ini Fragment B</string>
+    <string name="frg_c">Ini Fragment C</string>
+    <string name="frag_a">Ini Fragment A</string>
+    <string name="frag_b">Ini Fragment B</string>
+    <string name="frag_c">Ini Fragment C</string>
+    <string name="page1">Page 1</string>
+    <string name="page2">Page 2</string>
+    <string name="page3">Page 3</string>
+    <string name="topage_dua">Go To Page 2</string>
+    <string name="topage_tiga">Go To Page 3</string>
+    <string name="topage_satu">Go To Page 1</string>
+</resources>

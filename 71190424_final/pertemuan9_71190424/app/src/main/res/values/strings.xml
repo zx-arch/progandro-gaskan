@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">pertemuan9_71190424</string>
+    <string name="Password">Password</string>
+    <string name="Username">Username</string>
+    <string name="my_campus">MY CAMPUS</string>
+    <string name="login">LOGIN</string>
+    <string name="todo">TODO</string>
+    <string name="bahasa">Pengaturan Bahasa</string>
+    <string name="ukuran_font">Ukuran Font</string>
+    <string name="pilih_bahasa">Pilih Bahasa</string>
+    <string name="logout">Logout</string>
+</resources>

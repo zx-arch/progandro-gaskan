@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">final_project_71190424</string>
+    <string name="list_film">List Film</string>
+    <string name="cari_film">Cari Film</string>
+    <string name="search">Search</string>
+    <string name="poster_film">Poster Film</string>
+    <string name="judul_film">Tidak Ada Data Film</string>
+    <string name="judul">Masukkan Judul</string>
+    <string name="tambah">Tambah</string>
+    <string name="upload_gambar">Upload Gambar</string>
+    <string name="submit">Submit</string>
+    <string name="masukkan_genre">Masukkan Genre</string>
+    <string name="nm_produser">Masukkan Nama Produser</string>
+    <string name="masukkan_pemeranpertama">Masukkan Nama Pemeran Utama Pertama</string>
+    <string name="masukkan_pemerankedua">Masukkan Nama Pemeran Utama Kedua</string>
+    <string name="masukkan_pemeranketiga">Masukkan Nama Pemeran Utama Ketiga</string>
+    <string name="tahun_rilis">Masukkan Tahun Rilis</string>
+    <string name="cari_judul_film">Cari Judul Film</string>
+    <string name="delete_film">Delete</string>
+    <string name="sign_in_with_google">Sign In With Google</string>
+    <string name="web_client">889240375428-8n1gj4l41sneshsdq7mncvj6jksbjhb0.apps.googleusercontent.com</string>
+    <string name="logout">LOGOUT</string>
+    <string name="detail">Detail</string>
+    <string name="detail_genre">Genre</string>
+    <string name="detail_thn_rilis">Tahun Rilis</string>
+    <string name="detail_produser">Produser</string>
+    <string name="detail_pemeranutamapertama">Pemeran Utama Pertama</string>
+    <string name="detail_pemeranutamakedua">Pemeran Utama Kedua</string>
+    <string name="detail_pemeranutamaketiga">Pemeran Utama Ketiga</string>
+    <string name="data_film">Data Film</string>
+    <string name="tampilkan_semua_data">Refresh</string>
+    <string name="search_film">Cari Judul/Genre/Tahun Rilis Film</string>
+    <string name="delete">Delete</string>
+    <string name="my_campus">MY CAMPUS</string>
+    <string name="update">Update</string>
+</resources>

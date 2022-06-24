@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "295378505918",
+    "project_id": "my-campus-152c2",
+    "storage_bucket": "my-campus-152c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295378505918:android:4cba8aeb38bfaa3039ceef",
+        "android_client_info": {
+          "package_name": "id.ac.ukdw.pertemuan11_71190424"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295378505918-6593399gj5quupc4tpa836tgmcln56og.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrHYyfdgt7AbLYyEQ6wR80D404HNf12Tg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295378505918-6593399gj5quupc4tpa836tgmcln56og.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "889240375428",
+    "project_id": "db-film-99c2b",
+    "storage_bucket": "db-film-99c2b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889240375428:android:91df8ada1cf31f6f3af2d1",
+        "android_client_info": {
+          "package_name": "id.ac.ukdw.final_71190424"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889240375428-8n1gj4l41sneshsdq7mncvj6jksbjhb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU4r9NKTY0hRC5fVbePmz0T4bkz5KUsIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889240375428-8n1gj4l41sneshsdq7mncvj6jksbjhb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889240375428:android:02117fa378ce539e3af2d1",
+        "android_client_info": {
+          "package_name": "id.ac.ukdw.final_project_71190424"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889240375428-8n1gj4l41sneshsdq7mncvj6jksbjhb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU4r9NKTY0hRC5fVbePmz0T4bkz5KUsIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889240375428-8n1gj4l41sneshsdq7mncvj6jksbjhb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
